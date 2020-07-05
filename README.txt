@@ -1,0 +1,1 @@
+write "gem install colorize" in the cmd to install the requirements to play the game
